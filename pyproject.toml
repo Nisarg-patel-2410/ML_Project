@@ -1,0 +1,11 @@
+[project]
+name = "ML project"
+version = "1.0.0"
+authors = [{name = "Nisarg Kanasagra}]
+dependencies = [
+    "numpy>=1.26.0",
+    "pandas",
+    "mathplotlib"
+]
+requires-python = ">=3.12"
+readme = "README.md"
